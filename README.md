@@ -27,6 +27,9 @@ composer.json
     "hagag/medical-conversion": "*"
 }
 ```
-</p>
-CLI : composer require hagag/medical-conversion
+
+# CLI command 
+```
+composer require hagag/medical-conversion
+```
 
