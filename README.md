@@ -22,11 +22,11 @@ https://packagist.org/packages/hagag/medical-conversion
 
 # composer install 
 composer.json
-
-```"require": {
+```
+"require": {
     "hagag/medical-conversion": "*"
-}```
-
+}
+```
 </p>
 CLI : composer require hagag/medical-conversion
 
