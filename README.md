@@ -15,15 +15,18 @@ Package to convert medical values from unit to another unit,supported readings :
 - Temperature
 - Oxygen Level
 - Muscle Mass
+- Respiration Rate
 
 # packagist 
 https://packagist.org/packages/hagag/medical-conversion
 
 # composer install 
 composer.json
-"require": {
+
+```"require": {
     "hagag/medical-conversion": "*"
-}
+}```
+
 </p>
 CLI : composer require hagag/medical-conversion
 
